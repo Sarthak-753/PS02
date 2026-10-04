@@ -6,7 +6,7 @@
 
 This contains everything you need to run your app locally.
 
-View your app in AI Studio: https://ai.studio/apps/716020c0-c91b-4f61-95bc-a9285f42a25f
+View your app in AI Studio: https://resq-intelligence-aura.ai.studio
 
 ## Run Locally
 
