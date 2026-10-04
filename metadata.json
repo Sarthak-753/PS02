@@ -1,0 +1,8 @@
+{
+  "name": "RESQ INTELLIGENCE — AURA 1.0",
+  "description": "AI Disaster Command Center & Proactive Resilience Platform. Predict, Prepare, Position, Respond, Recover.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
